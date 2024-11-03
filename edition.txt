@@ -1,8 +1,9 @@
 first edition
 second edition
 third edition
+<<<<<<< HEAD
 issue resolved
 Hotfix team's solution
-New function added
-
-
+=======
+issue solved
+>>>>>>> origin/main
